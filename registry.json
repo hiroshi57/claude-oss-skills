@@ -1,4 +1,16 @@
 {
-  "updated_at": null,
-  "tools": []
+  "updated_at": "2026-11-16",
+  "note": "stars_listed は meikan.moveai.jp の掲載値（独自集計）。実GitHubスターとは桁が異なる場合がある。",
+  "tools": [
+    {"slug": "rea", "repo": "morluto/rea", "stars_listed": "46.2万", "skill_name": "oss-dev-rea-analyze", "generated_at": "2026-11-16"},
+    {"slug": "openclaw", "repo": "openclaw/openclaw", "stars_listed": "39.5万", "skill_name": "oss-agent-openclaw-run", "generated_at": "2026-11-16"},
+    {"slug": "matt-pocock-skills", "repo": "mattpocock/skills", "stars_listed": "32.5万", "skill_name": "oss-dev-mattpocockskills-use", "generated_at": "2026-11-16"},
+    {"slug": "superpowers", "repo": "obra/superpowers", "stars_listed": "31.8万", "skill_name": "oss-dev-superpowers-use", "generated_at": "2026-11-16"},
+    {"slug": "ecc", "repo": "affaan-m/ECC", "stars_listed": "30.4万", "skill_name": "oss-dev-ecc-use", "generated_at": "2026-11-16"},
+    {"slug": "hermes-agent", "repo": "NousResearch/hermes-agent", "stars_listed": "26.4万", "skill_name": "oss-agent-hermes-run", "generated_at": "2026-11-16"},
+    {"slug": "n8n", "repo": "n8n-io/n8n", "stars_listed": "21.1万", "skill_name": "oss-automation-n8n-use", "generated_at": "2026-11-16"},
+    {"slug": "yt-dlp", "repo": "yt-dlp/yt-dlp", "stars_listed": "20.8万", "skill_name": "oss-media-ytdlp-download", "generated_at": "2026-11-16"},
+    {"slug": "firecrawl", "repo": "firecrawl/firecrawl", "stars_listed": "20.2万", "skill_name": "oss-web-firecrawl-scrape", "generated_at": "2026-11-16"},
+    {"slug": "ollama", "repo": "ollama/ollama", "stars_listed": "18.7万", "skill_name": "oss-llm-ollama-run", "generated_at": "2026-11-16"}
+  ]
 }
